@@ -1,0 +1,41 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: Guia Grafica Somos Uno.ai
+Modo de color: Color RGB
+Perfil de color: Adobe RGB (1998)
+Unidades de regla: p’xeles
+Dimensiones de la mesa de trabajo: 1920 px x 1080 px
+Mostrar im‡genes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edici—n de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+C=100 M=79 Y=37 K=0 1 (CMYK)
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Panchang Bold (OTF)
+TitlingGothicFB Normal (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Im‡genes enlazadas:
+Ninguno

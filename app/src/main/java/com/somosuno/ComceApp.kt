@@ -1,7 +1,7 @@
-package com.comce.fendipetroleo
+package com.somosuno
 
 import androidx.compose.runtime.Composable
-import com.comce.fendipetroleo.feature.assistant.AssistantScreen
+import com.somosuno.feature.assistant.AssistantScreen
 
 @Composable
 fun ComceApp() {

@@ -1,4 +1,4 @@
-package com.comce.fendipetroleo.core.designsystem.theme
+package com.somosuno.core.designsystem.theme
 
 import androidx.compose.ui.graphics.Color
 

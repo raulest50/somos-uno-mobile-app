@@ -1,4 +1,4 @@
-package com.comcefendipetroleo
+package com.somosuno
 
 import org.junit.Test
 

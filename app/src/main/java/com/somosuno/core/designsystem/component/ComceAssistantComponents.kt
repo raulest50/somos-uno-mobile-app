@@ -1,4 +1,4 @@
-package com.comce.fendipetroleo.core.designsystem.component
+package com.somosuno.core.designsystem.component
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -24,18 +24,18 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.input.ImeAction
 import androidx.compose.ui.unit.dp
-import com.comce.fendipetroleo.core.designsystem.theme.ComceBlue
-import com.comce.fendipetroleo.core.designsystem.theme.ComceBlueSoft
-import com.comce.fendipetroleo.core.designsystem.theme.ComceGray
-import com.comce.fendipetroleo.core.designsystem.theme.ComceGreen
-import com.comce.fendipetroleo.core.designsystem.theme.ComceGreenSoft
-import com.comce.fendipetroleo.core.designsystem.theme.ComceInk
-import com.comce.fendipetroleo.core.designsystem.theme.ComceOutline
-import com.comce.fendipetroleo.core.designsystem.theme.ComceSurfaceVariant
-import com.comce.fendipetroleo.core.designsystem.theme.ComceWhite
-import com.comce.fendipetroleo.feature.assistant.AssistantMessage
-import com.comce.fendipetroleo.feature.assistant.AssistantMessageRole
-import com.comce.fendipetroleo.feature.assistant.AssistantSuggestion
+import com.somosuno.core.designsystem.theme.ComceBlue
+import com.somosuno.core.designsystem.theme.ComceBlueSoft
+import com.somosuno.core.designsystem.theme.ComceGray
+import com.somosuno.core.designsystem.theme.ComceGreen
+import com.somosuno.core.designsystem.theme.ComceGreenSoft
+import com.somosuno.core.designsystem.theme.ComceInk
+import com.somosuno.core.designsystem.theme.ComceOutline
+import com.somosuno.core.designsystem.theme.ComceSurfaceVariant
+import com.somosuno.core.designsystem.theme.ComceWhite
+import com.somosuno.feature.assistant.AssistantMessage
+import com.somosuno.feature.assistant.AssistantMessageRole
+import com.somosuno.feature.assistant.AssistantSuggestion
 
 @Composable
 fun ComceMessageBubble(

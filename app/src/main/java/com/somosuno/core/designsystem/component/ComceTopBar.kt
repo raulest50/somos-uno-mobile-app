@@ -1,4 +1,4 @@
-package com.comce.fendipetroleo.core.designsystem.component
+package com.somosuno.core.designsystem.component
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -20,9 +20,9 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.comce.fendipetroleo.core.designsystem.theme.ComceGreen
-import com.comce.fendipetroleo.core.designsystem.theme.ComceInk
-import com.comce.fendipetroleo.core.designsystem.theme.ComceWhite
+import com.somosuno.core.designsystem.theme.ComceGreen
+import com.somosuno.core.designsystem.theme.ComceInk
+import com.somosuno.core.designsystem.theme.ComceWhite
 
 @Composable
 fun ComceTopBar(

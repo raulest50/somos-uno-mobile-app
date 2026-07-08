@@ -1,4 +1,4 @@
-package com.comce.fendipetroleo.feature.assistant
+package com.somosuno.feature.assistant
 
 data class AssistantMessage(
     val role: AssistantMessageRole,

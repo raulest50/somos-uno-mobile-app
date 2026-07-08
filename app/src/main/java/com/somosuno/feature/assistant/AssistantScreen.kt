@@ -1,4 +1,4 @@
-package com.comce.fendipetroleo.feature.assistant
+package com.somosuno.feature.assistant
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -24,15 +24,15 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.comce.fendipetroleo.core.designsystem.component.ComceInputBar
-import com.comce.fendipetroleo.core.designsystem.component.ComceInsightCard
-import com.comce.fendipetroleo.core.designsystem.component.ComceMessageBubble
-import com.comce.fendipetroleo.core.designsystem.component.ComceSuggestionChips
-import com.comce.fendipetroleo.core.designsystem.component.ComceTopBar
-import com.comce.fendipetroleo.core.designsystem.theme.ComceFendipetroleoMobileAppTheme
-import com.comce.fendipetroleo.core.designsystem.theme.ComceGray
-import com.comce.fendipetroleo.core.designsystem.theme.ComceInk
-import com.comce.fendipetroleo.core.designsystem.theme.ComceSurface
+import com.somosuno.core.designsystem.component.ComceInputBar
+import com.somosuno.core.designsystem.component.ComceInsightCard
+import com.somosuno.core.designsystem.component.ComceMessageBubble
+import com.somosuno.core.designsystem.component.ComceSuggestionChips
+import com.somosuno.core.designsystem.component.ComceTopBar
+import com.somosuno.core.designsystem.theme.ComceFendipetroleoMobileAppTheme
+import com.somosuno.core.designsystem.theme.ComceGray
+import com.somosuno.core.designsystem.theme.ComceInk
+import com.somosuno.core.designsystem.theme.ComceSurface
 
 @Composable
 fun AssistantScreen(
