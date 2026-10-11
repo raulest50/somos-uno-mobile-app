@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gaphor xmlns="https://gaphor.org/model" xmlns:Core="https://gaphor.org/modelinglanguage/Core" xmlns:UML="https://gaphor.org/modelinglanguage/UML" version="4" gaphor-version="3.3.2">
+<model>
+<Core:StyleSheet id="58d6989a-66f8-11ec-b4c8-0456e5e540ed"/>
+<UML:Package id="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed">
+<name>
+<val>somos-uno-mobile-app</val>
+</name>
+<nestedPackage>
+<reflist>
+<ref refid="b256125a-c509-11f1-8d7c-b81ea434d48d"/>
+<ref refid="b424e3c2-c509-11f1-8d7c-b81ea434d48d"/>
+</reflist>
+</nestedPackage>
+<packagedElement>
+<reflist>
+<ref refid="b256125a-c509-11f1-8d7c-b81ea434d48d"/>
+<ref refid="b424e3c2-c509-11f1-8d7c-b81ea434d48d"/>
+</reflist>
+</packagedElement>
+</UML:Package>
+<UML:Package id="b256125a-c509-11f1-8d7c-b81ea434d48d">
+<name>
+<val>Components</val>
+</name>
+<nestingPackage>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</nestingPackage>
+<owningPackage>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</owningPackage>
+</UML:Package>
+<UML:Package id="b424e3c2-c509-11f1-8d7c-b81ea434d48d">
+<name>
+<val>Deployment</val>
+</name>
+<nestingPackage>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</nestingPackage>
+<ownedDiagram>
+<reflist>
+<ref refid="c3b29d0c-c509-11f1-8d7c-b81ea434d48d"/>
+</reflist>
+</ownedDiagram>
+<ownedType>
+<reflist>
+<ref refid="c69a844e-c509-11f1-8d7c-b81ea434d48d"/>
+<ref refid="d92c86f2-c509-11f1-8d7c-b81ea434d48d"/>
+</reflist>
+</ownedType>
+<owningPackage>
+<ref refid="58d6c2e8-66f8-11ec-b4c8-0456e5e540ed"/>
+</owningPackage>
+<packagedElement>
+<reflist>
+<ref refid="c69a844e-c509-11f1-8d7c-b81ea434d48d"/>
+<ref refid="d92c86f2-c509-11f1-8d7c-b81ea434d48d"/>
+</reflist>
+</packagedElement>
+</UML:Package>
+<UML:DeploymentDiagram id="c3b29d0c-c509-11f1-8d7c-b81ea434d48d">
+<element>
+<ref refid="b424e3c2-c509-11f1-8d7c-b81ea434d48d"/>
+</element>
+<name>
+<val>New Diagram</val>
+</name>
+<ownedPresentation>
+<reflist>
+<ref refid="c69b1f3a-c509-11f1-8d7c-b81ea434d48d"/>
+<ref refid="d92cdd1e-c509-11f1-8d7c-b81ea434d48d"/>
+</reflist>
+</ownedPresentation>
+</UML:DeploymentDiagram>
+<UML:Node id="c69a844e-c509-11f1-8d7c-b81ea434d48d">
+<name>
+<val>render.com</val>
+</name>
+<owningPackage>
+<ref refid="b424e3c2-c509-11f1-8d7c-b81ea434d48d"/>
+</owningPackage>
+<package>
+<ref refid="b424e3c2-c509-11f1-8d7c-b81ea434d48d"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="c69b1f3a-c509-11f1-8d7c-b81ea434d48d"/>
+</reflist>
+</presentation>
+</UML:Node>
+<UML:NodeItem id="c69b1f3a-c509-11f1-8d7c-b81ea434d48d">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 108.38780212402344, 115.37274169921875)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>674.3020782470703</val>
+</width>
+<height>
+<val>336.46539306640625</val>
+</height>
+<diagram>
+<ref refid="c3b29d0c-c509-11f1-8d7c-b81ea434d48d"/>
+</diagram>
+<subject>
+<ref refid="c69a844e-c509-11f1-8d7c-b81ea434d48d"/>
+</subject>
+</UML:NodeItem>
+<UML:Node id="d92c86f2-c509-11f1-8d7c-b81ea434d48d">
+<name>
+<val>client's mobile device (android)</val>
+</name>
+<owningPackage>
+<ref refid="b424e3c2-c509-11f1-8d7c-b81ea434d48d"/>
+</owningPackage>
+<package>
+<ref refid="b424e3c2-c509-11f1-8d7c-b81ea434d48d"/>
+</package>
+<presentation>
+<reflist>
+<ref refid="d92cdd1e-c509-11f1-8d7c-b81ea434d48d"/>
+</reflist>
+</presentation>
+</UML:Node>
+<UML:NodeItem id="d92cdd1e-c509-11f1-8d7c-b81ea434d48d">
+<matrix>
+<val>(1.0, 0.0, 0.0, 1.0, 108.38780212402344, 574.5269775390625)</val>
+</matrix>
+<top-left>
+<val>(0.0, 0.0)</val>
+</top-left>
+<width>
+<val>674.3020782470703</val>
+</width>
+<height>
+<val>266.0211181640625</val>
+</height>
+<diagram>
+<ref refid="c3b29d0c-c509-11f1-8d7c-b81ea434d48d"/>
+</diagram>
+<subject>
+<ref refid="d92c86f2-c509-11f1-8d7c-b81ea434d48d"/>
+</subject>
+</UML:NodeItem>
+</model>
+</gaphor>
